@@ -1,0 +1,44 @@
+{
+  "private": true,
+  "name": "phaser-es6-boilerplate",
+  "version": "1.0.0",
+  "description": "Tiny flexible template for writing Phaser games in ES6/ES2015 with Babel.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "gulp",
+    "production": "gulp --production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oanhnn/phaser-es6-boilerplate"
+  },
+  "authors": [
+      "OanhNN <oanhnn.bk@gmail.com>"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "babelify": "^6.1.3",
+    "browser-sync": "^2.8.0",
+    "browserify": "^11.0.0",
+    "del": "^1.2.0",
+    "exorcist": "^0.4.0",
+    "vinyl-source-stream": "^1.1.0",
+    "yargs": "^3.16.1",
+    "normalize.css": "~3.0.3",
+    "jshint-stylish": "~2.1.0",
+    "gulp": "^3.9.0",
+    "gulp-buffer": "0.0.2",
+    "gulp-if": "^1.2.5",
+    "gulp-uglify": "^1.2.0",
+    "gulp-util": "^3.0.6",
+    "gulp-header": "~1.7.1",
+    "gulp-zip": "~3.0.2",
+    "gulp-autoprefixer": "~3.1.0",
+    "gulp-jscs": "~3.0.2",
+    "gulp-jshint": "~2.0.0"
+  },
+  "dependencies": {
+    "phaser": "^2.4.3",
+    "requirejs": "~2.1.22"
+  }
+}
