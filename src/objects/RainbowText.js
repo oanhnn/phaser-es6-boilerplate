@@ -33,7 +33,6 @@ class RainbowText extends Phaser.Text {
         }
 
     }
-
 }
 
 export default RainbowText;

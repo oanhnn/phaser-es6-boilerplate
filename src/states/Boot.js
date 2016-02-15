@@ -22,7 +22,7 @@ class BootState extends Phaser.State {
     }
 
     preload() {
-
+        // Load resource for show loading screen
     }
 
     create() {
