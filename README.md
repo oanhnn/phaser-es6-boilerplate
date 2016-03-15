@@ -68,8 +68,7 @@ See [gulpfile.md](https://github.com/oanhnn/phaser-es6-boilerplate/blob/master/g
 
 ## Changelog
 
-See
-[CHANGELOG.md](https://github.com/oanhnn/phaser-es6-boilerplate/blob/master/CHANGELOG.md)
+See [CHANGELOG.md](https://github.com/oanhnn/phaser-es6-boilerplate/blob/master/CHANGELOG.md)
 
 ## Contributing
 
